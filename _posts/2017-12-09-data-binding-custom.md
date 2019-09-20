@@ -14,13 +14,13 @@ Angular中，我们常常需要通过方括号`[]`和圆括号`()`实现组件�
 那么在`[]`和`()`的基础上，如何实现组件的双向数据绑定？
 例子如下。
 子组件：
-```
+```html
 <!--child.component.html-->
 
 <h1>status in child: {{childStatus}}</h1>
 <button (click)="toggle()">Toggle childStatus</button>
 ```
-```
+```typescript
 //child.component.ts
 
 export class ChildComponent implements OnInit{
@@ -38,7 +38,7 @@ export class ChildComponent implements OnInit{
 注意这里的写法，这是关键所在，输出属性必须在输入属性的基础上加上‘-Change’后缀。比如你的输入属性是`myData`，那么输出属性就必须是`myDataChange`。
 
 父组件：
-```
+```html
 <!--app.component.html-->
 
 <test-binding [(childStatus)]="parentStatus"></test-binding>
@@ -46,7 +46,7 @@ export class ChildComponent implements OnInit{
 <h1>status in parent: {{parentStatus}}</h1>
 <button (click)="toggle()">Toggle parentStatus</button>
 ```
-```
+```typescript
 //app.component.ts
 
 import { Component,OnInit } from '@angular/core';

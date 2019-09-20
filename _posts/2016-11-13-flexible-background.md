@@ -8,7 +8,7 @@ categories: CSS
 
 CSS3给我们带来一个非常实用的新属性：border-image，利用这个属性我们可以做出随着内容的增减自动伸缩的背景。废话不多说，看代码！
 HTML:
-```
+```html
 <ol>
   <li>第一条列表内容</li>
   <li>第二条列表内容</li>
@@ -18,7 +18,7 @@ HTML:
 </ol>
 ```
 CSS：
-```
+```css
 border: 20px solid;
 width: 200px;
 -webkit-border-image: url(border.png) 30 30 round;

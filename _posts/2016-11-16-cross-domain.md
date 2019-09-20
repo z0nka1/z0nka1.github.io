@@ -49,7 +49,7 @@ document.domain="jianshu.com"
 ##JSONP
 好了，重点来了，JSONP是非常常用的跨域方法，它通过动态创建script标签来实现跨域。
 众所周知，通过script来加载外部文件是不存在同源策略的限制的，我们可以请求任何域的文件而不需要跨域。确切的说，任何含有src或者href属性的标签都不存在同源策略的限制。利用这个特点，我们把远程文件的URL放到script标签的src中，这样就得到了远程文件中的数据，然后把这些数据作为参数传入一个函数，就可以按自己需求处理和呈现了。我们看看具体怎么实现：
-```
+```javascript
 //远程数据地址
 var url="http://api.jianshu.com/getSong.php?callback=handler";
 //创建script标签
@@ -65,7 +65,7 @@ function handler(data){
 ```
 **注意，要在远程数据地址尾部加上回调函数名， 服务器会动态用这个函数名包裹住数据，也就是将数据作为这个函数的参数，这样返回到本地之后就可以执行相应函数了。**
 举个栗子，当我们以callback为getCity请求数据，服务器返回了的数据是这样的：
-```
+```javascript
 getCity(
 {"city":
 [
@@ -82,7 +82,7 @@ getCity(
 )
 ```
 我们的getCity函数是这样的：
-```
+```javascript
 function getCity(data){
     console.log(data.city[0].name);
 }

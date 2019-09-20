@@ -12,7 +12,7 @@ categories: CSS
 
 CSS 代码：
 
-```
+```css
 div{
   width: 300px;
   height: 300px;
@@ -31,7 +31,7 @@ img{
 
 HTML 代码：
 
-```
+```html
 <div>
    <img src="prince.png">
 </div>
@@ -47,7 +47,7 @@ HTML 代码：
 
 CSS 代码：
 
-```
+```css
 .container{
       width: 500px;
       height: 400px;
@@ -68,7 +68,7 @@ CSS 代码：
 
 HTML 代码：
 
-```
+```html
 <div class="container">
   <div class="inner"></div>
 </div>
@@ -86,7 +86,7 @@ HTML 代码：
 
 CSS 代码：
 
-```
+```css
 div{
   width: 260px;
   height: 230px;
@@ -102,7 +102,7 @@ img{
 
 HTML 代码：
 
-```
+```html
 <div>
   <img src="prince.png">
 </div>
@@ -121,7 +121,7 @@ div 上面的 vertical-align: middle 是控制垂直方向上的居中的，而 
 但是如果我们把图片换成文字：
 CSS 代码：
 
-```
+```css
 div{
   border: 3px solid #555;
   width: 300px;
@@ -137,7 +137,7 @@ span{
 
 HTML 代码：
 
-```
+```html
 <div>
   <span>这是放在span中的文字，通过外层div设置display: table-cell以及vertical-align: middle实现垂直居中。</span>
 </div>
@@ -157,7 +157,7 @@ HTML 代码：
 
 CSS 代码：
 
-```
+```css
 .container{
   width: 300px;
   height: 200px;
@@ -177,7 +177,7 @@ CSS 代码：
 
 HTML 代码：
 
-```
+```html
 <div class="container">
   <div class="inner">
     我在容器中水平垂直居中
