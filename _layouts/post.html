@@ -45,10 +45,10 @@ layout: compress
         </span>
         <span>
             {% assign words = content | number_of_words %}
-              {% if words < 360 %}
+              {% if words < 100 %}
                 1 min
               {% else %}
-                {{ words | divided_by:180 }} mins
+                {{ words | divided_by:50 }} mins
             {% endif %} read
         </span>
       </p>

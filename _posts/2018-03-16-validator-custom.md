@@ -2,7 +2,7 @@
 layout: post
 title: Angular：Reactive Form的使用方法和自定义验证器
 summary: 介绍Reactive Form的使用方法，然后实现一个自定义表单验证器。
-featured-img: emile-perron-190221
+featured-img: fly-swing
 categories: Angular
 ---
 

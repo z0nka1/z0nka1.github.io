@@ -2,7 +2,7 @@
 layout: post
 title: Angular：ViewProviders和Providers的区别
 summary: 在Angular中使用依赖注入（DI）的时候，我们一般会使用providers。其实要做同样的事我们还有另外一个选择：viewProviders。
-featured-img: emile-perron-190221
+featured-img: river-bridge
 categories: Angular
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: CSS水平垂直居中的几种方法
 summary: 四十几年前人类已经登上了月球，但是直到今天，在CSS中还不能很好的实现水平垂直居中。
-featured-img: emile-perron-190221
+featured-img: sand-road
 categories: CSS
 ---
 

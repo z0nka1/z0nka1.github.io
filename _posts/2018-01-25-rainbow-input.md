@@ -2,7 +2,7 @@
 layout: post
 title: Angular：实现一个彩虹输入框
 summary: 通过实现一个彩虹输入框学习@HostBinding()和@HostListener()。
-featured-img: emile-perron-190221
+featured-img: sky-field
 categories: Angular
 ---
 

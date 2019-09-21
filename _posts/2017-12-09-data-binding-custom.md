@@ -2,7 +2,7 @@
 layout: post
 title: Angular：如何实现自己的双向数据绑定
 summary: 学过Angular的同学都知道，表单组件通过[(ngModel)]实现双向数据绑定，那我们能不能实现自己的双向数据绑定呢？答案是肯定的。
-featured-img: emile-perron-190221
+featured-img: sunny-wave
 categories: Angular
 ---
 

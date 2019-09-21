@@ -2,7 +2,7 @@
 layout: post
 title: Angular：CurrencyPipe关于人民币符号￥的问题
 summary: 在不熟悉的情况下使用CurrencyPipe很容易得到预期外的结果。
-featured-img: emile-perron-190221
+featured-img: sunny-forest
 categories: Angular
 ---
 
