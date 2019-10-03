@@ -2,7 +2,7 @@
 layout: post
 title: Github Actions初体验
 summary: 本文讲解如何利用Github Actions自动化构建和部署React应用到Github Pages
-featured-img: owl
+featured-img: cloud_moutain
 ---
 
 这两天体验了一下Github去年推出的持续集成服务-Github Actions，以下是我的记录。

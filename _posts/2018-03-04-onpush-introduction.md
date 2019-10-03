@@ -2,7 +2,7 @@
 layout: post
 title: Angular：OnPush变化检测策略介绍
 summary: 在OnPush策略下，Angular不会运行变化检测（Change Detection ），除非组件的`input`接收到了“新值”。
-featured-img: emile-perron-190221
+featured-img: snow_house
 categories: Angular
 ---
 
