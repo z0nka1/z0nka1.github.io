@@ -2,7 +2,7 @@
 layout: post
 title: CSS3随内容自动伸缩的背景
 summary: CSS3给我们带来一个非常实用的新属性：border-image，利用这个属性我们可以做出随着内容的增减自动伸缩的背景。
-featured-img: shane-rounce-205187
+featured-img: css
 categories: CSS
 ---
 

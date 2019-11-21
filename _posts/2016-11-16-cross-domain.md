@@ -2,7 +2,7 @@
 layout: post
 title: 跨域及其解决方案
 summary: 如果两个URL，协议相同，域名相同，端口号相同，那么这两个URL就属于同域。那么外域就是，协议不同，或者域名不同，或者端口号不同。注意，这三者只要其中一个不同，就不属于同域。
-featured-img: river-house
+featured-img: javascript
 ---
 
 首先来明确一下“跨域”这个概念。

@@ -2,7 +2,7 @@
 layout: post
 title: XSS攻防
 summary: 本文讲解XSS攻击方式与防守策略
-featured-img: cloud_moutain
+featured-img: code
 categories: Web安全
 ---
 

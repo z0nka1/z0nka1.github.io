@@ -17,7 +17,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Resume', link: '/resume'}
+  # - {name: 'Resume', link: '/resume'}
 
 tagline: >
   个人博客发布平台
