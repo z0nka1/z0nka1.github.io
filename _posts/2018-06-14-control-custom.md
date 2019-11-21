@@ -2,7 +2,7 @@
 layout: post
 title: Angular：自定义表单控件
 summary: 分享一个最近写的Angular表单控件，欢迎交流讨论。
-featured-img: owl
+featured-img: angular
 categories: Angular
 ---
 

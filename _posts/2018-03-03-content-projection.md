@@ -2,7 +2,7 @@
 layout: post
 title: Angular：利用内容投射向组件输入遍历模板
 summary: 不用*ngIf，也能根据需要订制组件不同外观。
-featured-img: blue-wave
+featured-img: angular
 categories: Angular
 ---
 

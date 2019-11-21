@@ -2,7 +2,7 @@
 layout: post
 title: Angular：aot 编译报错 ERROR in ./src/main.ts 解决方法
 summary: 非常常见的编译报错。
-featured-img: dead-tree
+featured-img: angular
 categories: Angular
 ---
 

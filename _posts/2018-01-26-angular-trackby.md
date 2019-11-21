@@ -2,7 +2,7 @@
 layout: post
 title: Angular：利用trackBy提升性能
 summary: trackBy让列表渲染更高效。
-featured-img: fly-machine
+featured-img: angular
 categories: Angular
 ---
 
