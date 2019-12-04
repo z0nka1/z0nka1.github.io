@@ -3,7 +3,7 @@ layout: post
 title: 正则表达式理论与实践
 summary: 介绍正则表达式直接量字符、范围表示法、通配符、锚字符、修饰符和分组，以及各个方法用法。
 featured-img: javascript
-categories: Guide
+categories: JavaScript
 ---
 
 ## 概念

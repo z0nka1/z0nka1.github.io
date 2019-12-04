@@ -3,7 +3,7 @@ layout: post
 title: JavaScript：变量提升是怎么回事
 summary: 为什么在JavaScript中变量可以先使用后定义而不报错？
 featured-img: javascript
-categories: Guide
+categories: JavaScript
 ---
 
 先看以下代码，思考下打印结果是什么：

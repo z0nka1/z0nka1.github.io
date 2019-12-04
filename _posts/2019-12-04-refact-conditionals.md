@@ -3,7 +3,7 @@ layout: post
 title: JavaScript：如何重构你的条件语句
 summary: 几个小技巧，让你的条件语句更优雅更易于阅读
 featured-img: javascript
-categories: Guide
+categories: JavaScript
 ---
 
 ### 1.利用`Array.includes`
