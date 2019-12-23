@@ -2,7 +2,7 @@
 layout: post
 title: React Native：搭建开发环境
 summary: RN开发环境搭建采坑实录
-featured-img: code
+featured-img: react
 categories: React Native
 ---
 
