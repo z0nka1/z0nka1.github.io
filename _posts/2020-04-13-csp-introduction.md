@@ -2,8 +2,8 @@
 layout: post
 title: CSP（Content-Security-Policy）介绍
 summary: Content-Security-Policy（以下简称CSP）中文翻译为内容安全策略，用来提高网页安全性。
-featured-img: react
-categories: React
+featured-img: code
+categories: Web安全
 ---
 
 
